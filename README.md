@@ -38,4 +38,4 @@ My interests include software development, backend systems, and emerging areas s
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/your-link
+- LinkedIn: https://www.linkedin.com/in/adityajain-dev/
