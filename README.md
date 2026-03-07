@@ -19,4 +19,4 @@ I enjoy learning new concepts, building projects, and exploring different areas 
 - Emerging Technologies
 
 ## 📫 Connect with me
-- LinkedIn: https://linkedin.com/in/your-link
+- LinkedIn: [Aditya Jain](https://www.linkedin.com/in/aditya-jain-32b310371/)
