@@ -1,22 +1,40 @@
 # Hi, I'm Aditya 👋
 
-🎓 B.Tech Computer Science (Honours) Student
+🎓 B.Tech Computer Science (Honours) Student  
 
-I am interested in understanding how technology and software systems are built.  
-I enjoy learning new concepts, building projects, and exploring different areas of computer science.
+I enjoy exploring how software systems are built and learning new technologies through projects and hands-on experimentation.  
+My interests include software development, backend systems, and emerging areas such as AI/ML.
 
-## 🌱 Currently Exploring
+---
+
+## 🌱 Currently Learning
 - JavaScript
 - Node.js & Express
 - Python
 - Backend Development
-- AI/ML
+- Artificial Intelligence / Machine Learning
+
+---
+
+## 💻 Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=js,nodejs,express,python,html,css,postgres,mongodb,git,github,vscode," />
+</p>
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityajain-27&show_icons=true&theme=default)
+
+---
 
 ## 🚀 Interests
-- Software Development
-- Backend Systems
-- Problem Solving
-- Emerging Technologies
+- Software Development  
+- Backend Systems  
+- Problem Solving  
+- Artificial Intelligence
 
-## 📫 Connect with me
-- LinkedIn: [Aditya Jain](https://www.linkedin.com/in/aditya-jain-32b310371/)
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/your-link
