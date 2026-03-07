@@ -33,7 +33,7 @@ My interests include software development, backend systems, and emerging areas s
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityajain-27&show_icons=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=adityajain-27&show_icons=true&theme=default)
 
 ---
 
