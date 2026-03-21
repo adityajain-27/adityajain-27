@@ -31,6 +31,11 @@ My interests include software development, backend systems, and emerging areas s
 
 ---
 
+## 📊 GitHub Stats
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityajain-27)](https://github.com/adityajain-27/github-readme-stats)
+
+---
+
 
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/adityajain-dev/
