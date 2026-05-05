@@ -47,7 +47,7 @@ Currently expanding my skills in backend development and AI/ML.
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityajain-27&theme=react&hide_border=false" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityajain-27&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityajain-27&theme=tokyonight" /> 
