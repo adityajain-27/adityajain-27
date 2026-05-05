@@ -17,9 +17,16 @@ My interests include software development, backend systems, and emerging areas s
 ---
 
 ## 💻 Tools & Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=js,nodejs,express,python,postgres,mongodb,html,css,docker,git,github,vscode,postman" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,ts,python,react,nextjs,nodejs,express,mongodb,mysql,docker,git,github,vscode,figma,postman" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
+</div>
 
 ---
 
@@ -40,6 +47,9 @@ My interests include software development, backend systems, and emerging areas s
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajain-27&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 ---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=adityajain-27&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 
 ## 📫 Connect With Me
