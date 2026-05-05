@@ -39,18 +39,33 @@ Currently expanding my skills in backend development and AI/ML.
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=adityajain-27&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <br/>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adityajain-27&show_icons=true&theme=tokyonight&include_all_commits=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajain-27&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityajain-27&theme=react&hide_border=false" alt="GitHub Streak" />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajain-27&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityajain-27&theme=tokyonight" /> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityajain-27&theme=tokyonight" /
+</p>
+
+---
+
+## 🏆 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityajain-27&theme=tokyo-night" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=adityajain-27&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=adityajain-27&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 
 ## 📫 Connect With Me
