@@ -32,8 +32,13 @@ My interests include software development, backend systems, and emerging areas s
 ---
 
 ## 📊 GitHub Stats
-[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityajain-27)](https://github.com/adityajain-27/github-readme-stats)
-
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=adityajain-27&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityajain-27&theme=react&hide_border=false" alt="GitHub Streak" />
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajain-27&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
 ---
 
 
