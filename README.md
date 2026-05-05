@@ -39,10 +39,9 @@ Currently expanding my skills in backend development and AI/ML.
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adityajain-27&show_icons=true&theme=tokyonight&include_all_commits=true" />
-</p>
-
+</p> -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajain-27&layout=compact&theme=tokyonight" />
 </p>
