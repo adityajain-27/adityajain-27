@@ -2,8 +2,8 @@
 
 🎓 B.Tech Computer Science (Honours) Student  
 
-I enjoy exploring how software systems are built and learning new technologies through projects and hands-on experimentation.  
-My interests include software development, backend systems, and emerging areas such as AI/ML.
+I enjoy building software, exploring backend systems, and learning through real-world projects.  
+Currently expanding my skills in backend development and AI/ML.
 
 ---
 
@@ -46,6 +46,7 @@ My interests include software development, backend systems, and emerging areas s
     <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajain-27&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
+
 ---
 
 ## 🏆 GitHub Trophies
@@ -53,4 +54,5 @@ My interests include software development, backend systems, and emerging areas s
 
 
 ## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/adityajain-dev/
+- LinkedIn: [Aditya Jain](https://www.linkedin.com/in/adityajain-dev/)
+- Email - adityaalba27@gmail.com
