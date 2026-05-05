@@ -18,7 +18,7 @@ My interests include software development, backend systems, and emerging areas s
 
 ## 💻 Tools & Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,python,postgresql,mongodb,dockerhtml,css,mysql,git,github,vscode,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,python,postgresql,mongodb,docker,html,css,mysql,git,github,vscode,figma,postman" />
 </div>
 
 <div align="center">
