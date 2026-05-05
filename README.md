@@ -44,7 +44,7 @@ My interests include software development, backend systems, and emerging areas s
     <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityajain-27&theme=react&hide_border=false" alt="GitHub Streak" />
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajain-27&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajain-27&layout=compact&theme=react" />
 </div>
 ---
 
