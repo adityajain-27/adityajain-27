@@ -62,7 +62,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityajain-27&show_icons=true&theme=tokyonight&hide_border=true&title_color=7F5AF0&icon_color=4F9CF9&text_color=ffffff&bg_color=0D1117" height="180"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajain-27&layout=compact&theme=tokyonight&hide_border=true&title_color=7F5AF0&text_color=ffffff&bg_color=0D1117" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adityajain-27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
 
 <p align="center">
