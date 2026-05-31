@@ -11,7 +11,21 @@
 
 ## 👨‍💻 `whoami`
 
-> 💡 **B.Tech Computer Science (Honours)** student who learns best by shipping. I specialize in architecting backend systems, building SaaS MVPs, and bridging the gap between web development and machine learning.
+```yaml
+{
+name: Aditya Jain
+degree: B.Tech Computer Science (Honours)
+focus: Backend Development
+currently_learning:
+  - Machine Learning & Deep Learning
+  - Docker & containerization
+  - System design basics
+building_with: [Node.js, Express, Python, FastAPI, MongoDB,Postgresql]
+links:
+  github: github.com/adityajain-27
+  linkedin: linkedin.com/in/adityajain-dev
+}
+```
 
 <table align="center">
   <tr>
