@@ -60,25 +60,24 @@
 ## 📊 Telemetry & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityajain-27&show_icons=true&theme=tokyonight&hide_border=true&title_color=7F5AF0&icon_color=4F9CF9&text_color=ffffff&bg_color=0D1117" height="180"/>
-  &nbsp;&nbsp;
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adityajain-27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adityajain-27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityajain-27&theme=tokyonight&hide_border=true&background=0D1117&stroke=7F5AF0&ring=7F5AF0&fire=4F9CF9&currStreakLabel=4F9CF9" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityajain-27&theme=tokyonight&hide_border=true&background=0D1117&stroke=7F5AF0&ring=7F5AF0&fire=4F9CF9&currStreakLabel=4F9CF9" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityajain-27&hide_border=true&theme=github_dark" width="98%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityajain-27&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityajain-27&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityajain-27&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityajain-27&theme=tokyonight" width="48%" />
 </p>
 
 <details>
   <summary><b>🏆 View GitHub Trophies</b></summary>
   <br/>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=adityajain-27&theme=tokyonight&no-frame=true&row=1&margin-w=10" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=adityajain-27&theme=tokyonight&no-frame=true&row=1&margin-w=10" />
   </p>
 </details>
 
