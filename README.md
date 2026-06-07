@@ -18,8 +18,8 @@ degree: B.Tech Computer Science (Honours)
 focus: Backend Development
 currently_learning:
   - Machine Learning & Deep Learning
+  - DSA in Java
   - Docker & containerization
-  - System design basics
 building_with: [Node.js, Express, Python, FastAPI, MongoDB,Postgresql]
 links:
   github: github.com/adityajain-27
@@ -36,7 +36,7 @@ links:
       <h3>🌱 Current State</h3>
       <ul>
         <li>🚀 <b>Building:</b> High-impact hackathon projects (Agritech, Edtech, etc.)</li>
-        <li>🧠 <b>Learning:</b> Advanced Python (OOP, NumPy), AI/ML integration.</li>
+        <li>🧠 <b>Learning:</b> ML foundations (NumPy, Pandas, Matplotlib) + DSA in Java.</li>
         <li>🔧 <b>Tinkering with:</b> Containerization, Docker environments, and Linux/Ubuntu workflows.</li>
         <li>🎨 <b>Designing:</b> Drafting frontend MVPs in Figma before connecting the backend logic.</li>
       </ul>
@@ -59,10 +59,14 @@ links:
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,python,fastapi,mongodb,postgresql,mysql,docker,git,github,html,css,vscode,figma,postman&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,java,python,fastapi,mongodb,postgresql,mysql,docker,git,github,html,css,vscode,figma,postman&perline=8" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Render-7F5AF0?style=for-the-badge&logo=render&logoColor=white"/>
